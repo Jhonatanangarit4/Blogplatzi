@@ -1,0 +1,2 @@
+# Blogplatzi
+Blog platzi
